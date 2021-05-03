@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Çağrı Topçu</h1>
 <h3 align="center">A software developer from Turkey</h3>
 
+<br>
+
 <p align="center">
 <a href="https://github.com/cagritopcu" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
