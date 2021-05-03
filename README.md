@@ -41,4 +41,7 @@
 <br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cagritopcu&show_icons=true&locale=en&theme=radical" alt="cagritopcu" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cagritopcu&label=Profile%20views&color=0e75b6&style=flat" alt="cagritopcu" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=cagritopcu&label=Profile%20views&color=0e75b6&style=flat" alt="cagritopcu" /> 
+  <img src="https://img.shields.io/github/followers/cagritopcu?style=social">
+</p>
