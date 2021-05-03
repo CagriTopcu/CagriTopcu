@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Çağrı Topçu</h1>
 <h3 align="center">A software developer from Turkey</h3>
 
+<p align="center">
+<a href="https://github.com/cagritopcu" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://gist.github.com/cagritopcu" target="_blank">
+<img src=https://img.shields.io/badge/gist-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.linkedin.com/in/cagritopcu" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+</p>
 
 <hr>
 
