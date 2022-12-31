@@ -21,7 +21,7 @@
 <hr>
 
 <p align="center">
-  🌱 I’m currently learning <b>.NET Core</b>
+  🌱 I’m currently learning <b>.NET Core</b> & <b>Angular</b>
   
 </p>
 
