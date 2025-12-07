@@ -37,5 +37,3 @@
 <hr>
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cagritopcu&show_icons=true&locale=en&theme=radical" alt="cagritopcu" /></p>
-
